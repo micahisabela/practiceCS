@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/micahkelly/Dropbox/My Mac (Micahs-MacBook-Pro.local)/Documents/GitHub/Passcode/Passcode/Passcode.csproj",
+      "projectUniqueName": "/Users/micahkelly/Dropbox/My Mac (Micahs-MacBook-Pro.local)/Documents/GitHub/practiceCS/Passcode/Passcode/Passcode.csproj",
       "projectName": "Passcode",
-      "projectPath": "/Users/micahkelly/Dropbox/My Mac (Micahs-MacBook-Pro.local)/Documents/GitHub/Passcode/Passcode/Passcode.csproj",
+      "projectPath": "/Users/micahkelly/Dropbox/My Mac (Micahs-MacBook-Pro.local)/Documents/GitHub/practiceCS/Passcode/Passcode/Passcode.csproj",
       "packagesPath": "/Users/micahkelly/.nuget/packages/",
-      "outputPath": "/Users/micahkelly/Dropbox/My Mac (Micahs-MacBook-Pro.local)/Documents/GitHub/Passcode/Passcode/obj/",
+      "outputPath": "/Users/micahkelly/Dropbox/My Mac (Micahs-MacBook-Pro.local)/Documents/GitHub/practiceCS/Passcode/Passcode/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/micahkelly/.config/NuGet/NuGet.Config"

@@ -10,3 +10,15 @@
 /Users/micahkelly/Dropbox/My Mac (Micahs-MacBook-Pro.local)/Documents/GitHub/Passcode/Passcode/obj/Debug/netcoreapp3.1/Passcode.dll
 /Users/micahkelly/Dropbox/My Mac (Micahs-MacBook-Pro.local)/Documents/GitHub/Passcode/Passcode/obj/Debug/netcoreapp3.1/Passcode.pdb
 /Users/micahkelly/Dropbox/My Mac (Micahs-MacBook-Pro.local)/Documents/GitHub/Passcode/Passcode/obj/Debug/netcoreapp3.1/Passcode.genruntimeconfig.cache
+/Users/micahkelly/Dropbox/My Mac (Micahs-MacBook-Pro.local)/Documents/GitHub/practiceCS/Passcode/Passcode/obj/Debug/netcoreapp3.1/Passcode.csprojAssemblyReference.cache
+/Users/micahkelly/Dropbox/My Mac (Micahs-MacBook-Pro.local)/Documents/GitHub/practiceCS/Passcode/Passcode/obj/Debug/netcoreapp3.1/Passcode.AssemblyInfoInputs.cache
+/Users/micahkelly/Dropbox/My Mac (Micahs-MacBook-Pro.local)/Documents/GitHub/practiceCS/Passcode/Passcode/obj/Debug/netcoreapp3.1/Passcode.AssemblyInfo.cs
+/Users/micahkelly/Dropbox/My Mac (Micahs-MacBook-Pro.local)/Documents/GitHub/practiceCS/Passcode/Passcode/obj/Debug/netcoreapp3.1/Passcode.csproj.CoreCompileInputs.cache
+/Users/micahkelly/Dropbox/My Mac (Micahs-MacBook-Pro.local)/Documents/GitHub/practiceCS/Passcode/Passcode/obj/Debug/netcoreapp3.1/Passcode.dll
+/Users/micahkelly/Dropbox/My Mac (Micahs-MacBook-Pro.local)/Documents/GitHub/practiceCS/Passcode/Passcode/obj/Debug/netcoreapp3.1/Passcode.pdb
+/Users/micahkelly/Dropbox/My Mac (Micahs-MacBook-Pro.local)/Documents/GitHub/practiceCS/Passcode/Passcode/bin/Debug/netcoreapp3.1/Passcode.deps.json
+/Users/micahkelly/Dropbox/My Mac (Micahs-MacBook-Pro.local)/Documents/GitHub/practiceCS/Passcode/Passcode/bin/Debug/netcoreapp3.1/Passcode.runtimeconfig.json
+/Users/micahkelly/Dropbox/My Mac (Micahs-MacBook-Pro.local)/Documents/GitHub/practiceCS/Passcode/Passcode/bin/Debug/netcoreapp3.1/Passcode.runtimeconfig.dev.json
+/Users/micahkelly/Dropbox/My Mac (Micahs-MacBook-Pro.local)/Documents/GitHub/practiceCS/Passcode/Passcode/bin/Debug/netcoreapp3.1/Passcode.dll
+/Users/micahkelly/Dropbox/My Mac (Micahs-MacBook-Pro.local)/Documents/GitHub/practiceCS/Passcode/Passcode/bin/Debug/netcoreapp3.1/Passcode.pdb
+/Users/micahkelly/Dropbox/My Mac (Micahs-MacBook-Pro.local)/Documents/GitHub/practiceCS/Passcode/Passcode/obj/Debug/netcoreapp3.1/Passcode.genruntimeconfig.cache
