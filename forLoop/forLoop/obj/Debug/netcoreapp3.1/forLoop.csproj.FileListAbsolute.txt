@@ -1,0 +1,12 @@
+/Users/micahkelly/Dropbox/My Mac (Micahs-MacBook-Pro.local)/Documents/GitHub/practiceCS/forLoop/forLoop/bin/Debug/netcoreapp3.1/forLoop.deps.json
+/Users/micahkelly/Dropbox/My Mac (Micahs-MacBook-Pro.local)/Documents/GitHub/practiceCS/forLoop/forLoop/bin/Debug/netcoreapp3.1/forLoop.runtimeconfig.json
+/Users/micahkelly/Dropbox/My Mac (Micahs-MacBook-Pro.local)/Documents/GitHub/practiceCS/forLoop/forLoop/bin/Debug/netcoreapp3.1/forLoop.runtimeconfig.dev.json
+/Users/micahkelly/Dropbox/My Mac (Micahs-MacBook-Pro.local)/Documents/GitHub/practiceCS/forLoop/forLoop/bin/Debug/netcoreapp3.1/forLoop.dll
+/Users/micahkelly/Dropbox/My Mac (Micahs-MacBook-Pro.local)/Documents/GitHub/practiceCS/forLoop/forLoop/bin/Debug/netcoreapp3.1/forLoop.pdb
+/Users/micahkelly/Dropbox/My Mac (Micahs-MacBook-Pro.local)/Documents/GitHub/practiceCS/forLoop/forLoop/obj/Debug/netcoreapp3.1/forLoop.csprojAssemblyReference.cache
+/Users/micahkelly/Dropbox/My Mac (Micahs-MacBook-Pro.local)/Documents/GitHub/practiceCS/forLoop/forLoop/obj/Debug/netcoreapp3.1/forLoop.AssemblyInfoInputs.cache
+/Users/micahkelly/Dropbox/My Mac (Micahs-MacBook-Pro.local)/Documents/GitHub/practiceCS/forLoop/forLoop/obj/Debug/netcoreapp3.1/forLoop.AssemblyInfo.cs
+/Users/micahkelly/Dropbox/My Mac (Micahs-MacBook-Pro.local)/Documents/GitHub/practiceCS/forLoop/forLoop/obj/Debug/netcoreapp3.1/forLoop.csproj.CoreCompileInputs.cache
+/Users/micahkelly/Dropbox/My Mac (Micahs-MacBook-Pro.local)/Documents/GitHub/practiceCS/forLoop/forLoop/obj/Debug/netcoreapp3.1/forLoop.dll
+/Users/micahkelly/Dropbox/My Mac (Micahs-MacBook-Pro.local)/Documents/GitHub/practiceCS/forLoop/forLoop/obj/Debug/netcoreapp3.1/forLoop.pdb
+/Users/micahkelly/Dropbox/My Mac (Micahs-MacBook-Pro.local)/Documents/GitHub/practiceCS/forLoop/forLoop/obj/Debug/netcoreapp3.1/forLoop.genruntimeconfig.cache
