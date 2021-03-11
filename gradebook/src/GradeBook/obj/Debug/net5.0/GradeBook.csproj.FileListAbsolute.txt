@@ -1,0 +1,15 @@
+/Users/micahkelly/Dropbox/My Mac (Micahs-MacBook-Pro.local)/Documents/GitHub/practiceCS/gradebook/src/GradeBook/bin/Debug/net5.0/GradeBook.deps.json
+/Users/micahkelly/Dropbox/My Mac (Micahs-MacBook-Pro.local)/Documents/GitHub/practiceCS/gradebook/src/GradeBook/bin/Debug/net5.0/GradeBook.runtimeconfig.json
+/Users/micahkelly/Dropbox/My Mac (Micahs-MacBook-Pro.local)/Documents/GitHub/practiceCS/gradebook/src/GradeBook/bin/Debug/net5.0/GradeBook.runtimeconfig.dev.json
+/Users/micahkelly/Dropbox/My Mac (Micahs-MacBook-Pro.local)/Documents/GitHub/practiceCS/gradebook/src/GradeBook/bin/Debug/net5.0/GradeBook.dll
+/Users/micahkelly/Dropbox/My Mac (Micahs-MacBook-Pro.local)/Documents/GitHub/practiceCS/gradebook/src/GradeBook/bin/Debug/net5.0/ref/GradeBook.dll
+/Users/micahkelly/Dropbox/My Mac (Micahs-MacBook-Pro.local)/Documents/GitHub/practiceCS/gradebook/src/GradeBook/bin/Debug/net5.0/GradeBook.pdb
+/Users/micahkelly/Dropbox/My Mac (Micahs-MacBook-Pro.local)/Documents/GitHub/practiceCS/gradebook/src/GradeBook/obj/Debug/net5.0/GradeBook.csprojAssemblyReference.cache
+/Users/micahkelly/Dropbox/My Mac (Micahs-MacBook-Pro.local)/Documents/GitHub/practiceCS/gradebook/src/GradeBook/obj/Debug/net5.0/GradeBook.GeneratedMSBuildEditorConfig.editorconfig
+/Users/micahkelly/Dropbox/My Mac (Micahs-MacBook-Pro.local)/Documents/GitHub/practiceCS/gradebook/src/GradeBook/obj/Debug/net5.0/GradeBook.AssemblyInfoInputs.cache
+/Users/micahkelly/Dropbox/My Mac (Micahs-MacBook-Pro.local)/Documents/GitHub/practiceCS/gradebook/src/GradeBook/obj/Debug/net5.0/GradeBook.AssemblyInfo.cs
+/Users/micahkelly/Dropbox/My Mac (Micahs-MacBook-Pro.local)/Documents/GitHub/practiceCS/gradebook/src/GradeBook/obj/Debug/net5.0/GradeBook.csproj.CoreCompileInputs.cache
+/Users/micahkelly/Dropbox/My Mac (Micahs-MacBook-Pro.local)/Documents/GitHub/practiceCS/gradebook/src/GradeBook/obj/Debug/net5.0/GradeBook.dll
+/Users/micahkelly/Dropbox/My Mac (Micahs-MacBook-Pro.local)/Documents/GitHub/practiceCS/gradebook/src/GradeBook/obj/Debug/net5.0/ref/GradeBook.dll
+/Users/micahkelly/Dropbox/My Mac (Micahs-MacBook-Pro.local)/Documents/GitHub/practiceCS/gradebook/src/GradeBook/obj/Debug/net5.0/GradeBook.pdb
+/Users/micahkelly/Dropbox/My Mac (Micahs-MacBook-Pro.local)/Documents/GitHub/practiceCS/gradebook/src/GradeBook/obj/Debug/net5.0/GradeBook.genruntimeconfig.cache
