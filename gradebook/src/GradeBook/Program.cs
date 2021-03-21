@@ -29,7 +29,7 @@ namespace GradeBook
                 averageGrade = sumGrades / listLength;
             }
 
-            Console.WriteLine(averageGrade);
+            Console.WriteLine($"The average grade is {averageGrade:N1}");
 
 
 
