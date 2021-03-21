@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace GradeBook
 {
@@ -7,12 +8,30 @@ namespace GradeBook
         // this is a method. the name of this method is Main
         static void Main(string[] args)
         {
-            var grades = new double[3];
-            grades[0] = 12.7;
-            grades[1] = 34.5;
-            grades[2] = 77.9;
+            // goal: get the average grade in a list of grades
 
-            Console.WriteLine(grades[0] + grades[1] + grades[2]);
+            // step 1: create a new list with double type data types and input a starting amount of objects
+            List<double> grades = new List<double>() { 12.7, 10.3, 6.11, 4.1 };
+
+            // step 2: add another value to the grades list
+            grades.Add(56.1);
+
+            // step 3: initialize the sum and average variables and start at 0.0
+            var sumGrades = 0.0;
+            var averageGrade = 0.0;
+
+            // step 4: get the number of objects in the grades list and store it in this variable listLength
+            var listLength = grades.Count;
+
+            foreach (var grade in grades)
+            {
+                sumGrades += grade;
+                averageGrade = sumGrades / listLength;
+            }
+
+            Console.WriteLine(averageGrade);
+
+
 
             // goal: pass my name as a parameter
 
