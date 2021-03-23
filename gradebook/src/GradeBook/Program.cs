@@ -30,19 +30,6 @@ namespace GradeBook
             }
 
             Console.WriteLine($"The average grade is {averageGrade:N1}");
-
-
-
-            // goal: pass my name as a parameter
-
-            if (args.Length > 0)
-            {
-                Console.WriteLine($"Hello {args[0]}!");
-            }
-            else
-            {
-                Console.WriteLine("Hello");
-            }
         }
         // end of the method
     }
