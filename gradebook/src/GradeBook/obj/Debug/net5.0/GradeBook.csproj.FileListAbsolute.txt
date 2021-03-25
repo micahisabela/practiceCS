@@ -13,3 +13,18 @@
 /Users/micahkelly/Dropbox/My Mac (Micahs-MacBook-Pro.local)/Documents/GitHub/practiceCS/gradebook/src/GradeBook/obj/Debug/net5.0/ref/GradeBook.dll
 /Users/micahkelly/Dropbox/My Mac (Micahs-MacBook-Pro.local)/Documents/GitHub/practiceCS/gradebook/src/GradeBook/obj/Debug/net5.0/GradeBook.pdb
 /Users/micahkelly/Dropbox/My Mac (Micahs-MacBook-Pro.local)/Documents/GitHub/practiceCS/gradebook/src/GradeBook/obj/Debug/net5.0/GradeBook.genruntimeconfig.cache
+/Users/micah/Desktop/practiceCS/gradebook/src/GradeBook/obj/Debug/net5.0/GradeBook.csprojAssemblyReference.cache
+/Users/micah/Desktop/practiceCS/gradebook/src/GradeBook/obj/Debug/net5.0/GradeBook.GeneratedMSBuildEditorConfig.editorconfig
+/Users/micah/Desktop/practiceCS/gradebook/src/GradeBook/obj/Debug/net5.0/GradeBook.AssemblyInfoInputs.cache
+/Users/micah/Desktop/practiceCS/gradebook/src/GradeBook/obj/Debug/net5.0/GradeBook.AssemblyInfo.cs
+/Users/micah/Desktop/practiceCS/gradebook/src/GradeBook/obj/Debug/net5.0/GradeBook.csproj.CoreCompileInputs.cache
+/Users/micah/Desktop/practiceCS/gradebook/src/GradeBook/obj/Debug/net5.0/GradeBook.dll
+/Users/micah/Desktop/practiceCS/gradebook/src/GradeBook/obj/Debug/net5.0/ref/GradeBook.dll
+/Users/micah/Desktop/practiceCS/gradebook/src/GradeBook/obj/Debug/net5.0/GradeBook.pdb
+/Users/micah/Desktop/practiceCS/gradebook/src/GradeBook/bin/Debug/net5.0/GradeBook.deps.json
+/Users/micah/Desktop/practiceCS/gradebook/src/GradeBook/bin/Debug/net5.0/GradeBook.runtimeconfig.json
+/Users/micah/Desktop/practiceCS/gradebook/src/GradeBook/bin/Debug/net5.0/GradeBook.runtimeconfig.dev.json
+/Users/micah/Desktop/practiceCS/gradebook/src/GradeBook/bin/Debug/net5.0/GradeBook.dll
+/Users/micah/Desktop/practiceCS/gradebook/src/GradeBook/bin/Debug/net5.0/ref/GradeBook.dll
+/Users/micah/Desktop/practiceCS/gradebook/src/GradeBook/bin/Debug/net5.0/GradeBook.pdb
+/Users/micah/Desktop/practiceCS/gradebook/src/GradeBook/obj/Debug/net5.0/GradeBook.genruntimeconfig.cache

@@ -3,11 +3,15 @@ using System.Collections.Generic;
 
 namespace GradeBook
 {
+    
     class Program
     {
         // this is a method. the name of this method is Main
         static void Main(string[] args)
         {
+            var book = new Book();
+            book.AddGrade(89.1);
+
             // goal: get the average grade in a list of grades
 
             // step 1: create a new list with double type data types and input a starting amount of objects
