@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/micah/Desktop/practiceCS/gradebook/src/GradeBook/GradeBook.csproj": {}
+    "/Users/micahkelly/Dropbox/My Mac (Micahs-MacBook-Pro.local)/Documents/GitHub/practiceCS/gradebook/src/GradeBook/GradeBook.csproj": {}
   },
   "projects": {
-    "/Users/micah/Desktop/practiceCS/gradebook/src/GradeBook/GradeBook.csproj": {
+    "/Users/micahkelly/Dropbox/My Mac (Micahs-MacBook-Pro.local)/Documents/GitHub/practiceCS/gradebook/src/GradeBook/GradeBook.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/micah/Desktop/practiceCS/gradebook/src/GradeBook/GradeBook.csproj",
+        "projectUniqueName": "/Users/micahkelly/Dropbox/My Mac (Micahs-MacBook-Pro.local)/Documents/GitHub/practiceCS/gradebook/src/GradeBook/GradeBook.csproj",
         "projectName": "GradeBook",
-        "projectPath": "/Users/micah/Desktop/practiceCS/gradebook/src/GradeBook/GradeBook.csproj",
-        "packagesPath": "/Users/micah/.nuget/packages/",
-        "outputPath": "/Users/micah/Desktop/practiceCS/gradebook/src/GradeBook/obj/",
+        "projectPath": "/Users/micahkelly/Dropbox/My Mac (Micahs-MacBook-Pro.local)/Documents/GitHub/practiceCS/gradebook/src/GradeBook/GradeBook.csproj",
+        "packagesPath": "/Users/micahkelly/.nuget/packages/",
+        "outputPath": "/Users/micahkelly/Dropbox/My Mac (Micahs-MacBook-Pro.local)/Documents/GitHub/practiceCS/gradebook/src/GradeBook/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/micah/.nuget/NuGet/NuGet.Config"
+          "/Users/micahkelly/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -52,7 +52,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.201/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.103/RuntimeIdentifierGraph.json"
         }
       }
     }
