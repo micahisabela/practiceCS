@@ -5,11 +5,15 @@ namespace GradeBook
 {
     class Book 
     {
+        public Book() {
+            grades = new List<double>();
+        }
+        
         public void AddGrade(double grade)
         {
             grades.Add(grade);
         }
 
-        List<double> grades; // however, this will throw an error without initializing it. 
+        List<double> grades; // this is a field that stores arguments
     }
 }

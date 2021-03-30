@@ -9,8 +9,8 @@ namespace GradeBook
         // this is a method. the name of this method is Main
         static void Main(string[] args)
         {
-            var book = new Book();
-            book.AddGrade(89.1);
+            // var book = new Book();
+            // book.AddGrade(89.1);
 
             // goal: get the average grade in a list of grades
 
