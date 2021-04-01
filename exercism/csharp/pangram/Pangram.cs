@@ -4,6 +4,8 @@ public static class Pangram
 {
     public static bool IsPangram(string input)
     {
-        throw new NotImplementedException();
+        var sentencePangram = "The quick brown fox jumps over the lazy dog";
+        var sentenceNotPangram = "This sentence is not a pangram";
+
     }
 }
