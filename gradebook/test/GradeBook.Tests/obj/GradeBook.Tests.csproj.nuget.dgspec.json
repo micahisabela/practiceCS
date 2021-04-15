@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/micahkelly/Dropbox/My Mac (Micahs-MacBook-Pro.local)/Documents/GitHub/practiceCS/gradebook/test/GradeBook.Tests/GradeBook.Tests.csproj": {}
+    "/Users/micah/Desktop/practiceCS/gradebook/test/GradeBook.Tests/GradeBook.Tests.csproj": {}
   },
   "projects": {
-    "/Users/micahkelly/Dropbox/My Mac (Micahs-MacBook-Pro.local)/Documents/GitHub/practiceCS/gradebook/test/GradeBook.Tests/GradeBook.Tests.csproj": {
+    "/Users/micah/Desktop/practiceCS/gradebook/test/GradeBook.Tests/GradeBook.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/micahkelly/Dropbox/My Mac (Micahs-MacBook-Pro.local)/Documents/GitHub/practiceCS/gradebook/test/GradeBook.Tests/GradeBook.Tests.csproj",
+        "projectUniqueName": "/Users/micah/Desktop/practiceCS/gradebook/test/GradeBook.Tests/GradeBook.Tests.csproj",
         "projectName": "GradeBook.Tests",
-        "projectPath": "/Users/micahkelly/Dropbox/My Mac (Micahs-MacBook-Pro.local)/Documents/GitHub/practiceCS/gradebook/test/GradeBook.Tests/GradeBook.Tests.csproj",
-        "packagesPath": "/Users/micahkelly/.nuget/packages/",
-        "outputPath": "/Users/micahkelly/Dropbox/My Mac (Micahs-MacBook-Pro.local)/Documents/GitHub/practiceCS/gradebook/test/GradeBook.Tests/obj/",
+        "projectPath": "/Users/micah/Desktop/practiceCS/gradebook/test/GradeBook.Tests/GradeBook.Tests.csproj",
+        "packagesPath": "/Users/micah/.nuget/packages/",
+        "outputPath": "/Users/micah/Desktop/practiceCS/gradebook/test/GradeBook.Tests/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/micahkelly/.nuget/NuGet/NuGet.Config"
+          "/Users/micah/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -74,7 +74,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.103/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.201/RuntimeIdentifierGraph.json"
         }
       }
     }
